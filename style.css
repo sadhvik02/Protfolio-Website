@@ -1,0 +1,156 @@
+.header{
+    color: #fff;
+    text-align: center;
+    background-color: black;
+    border: 3px;
+    height: 30px;
+    text-decoration: none;
+    margin-top: 10px;
+    height: 55px;
+    width: 100%;
+}
+.a{
+   width: 900px;
+   height: 400px;
+}
+.b{
+    text-align: center;
+}
+.c{
+    text-align: center;
+}
+.d{
+    text-align: center;
+    background-color: rgb(209, 118, 7);
+    font-size: 30px;
+    text-decoration: none;
+}
+.e{
+    background-color: black;
+    text-decoration: none;
+    color: #fff;
+    height: 200px;
+    width: 100%;
+}
+.f{
+    text-decoration:underline;
+   
+}
+.fo{
+    margin-left: -1300px;
+}
+
+
+.about{
+    background-color:#F0F0F0;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: -50px;
+}
+.aimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+.sp{
+    margin-top: 60px;
+}
+.myskills{
+    background-color: #F0F0F0;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.a1{
+    text-align: center;
+}
+.p1{
+    margin-left: 10px;
+}
+.Contact{
+    
+    background-color: #F0F0F0;
+    font-size: 25px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-content: center;
+}
+.c1{
+    border: 2px solid;
+    width: 300px;
+    height: 40px;
+    margin-left: 5px;
+   
+}
+.c2{
+    border: 2px solid;
+    width: 615px;
+    height: 200px;
+    margin-top: -18px;
+    margin-left: 120px;
+    padding-right: 5px;
+}
+.c3{
+    margin-left: 115px;
+}
+.c4{
+    border: 2px solid;
+    width: 627px;
+    height: 45px;
+    margin-top: 13px;
+    margin-left: 6px;
+    margin-right: 23px;
+}
+.ch1{
+    margin-top: 100px;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    border: 3px;
+    height: 30px;
+    margin-top: 10px;
+    height: 55px;
+    width: 100%;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+.link:hover{
+    font-size: 30px;
+    color: aqua;
+}
+.link:active{
+    color: red;
+}
+.myimg{
+    background-image: url("download.jpeg");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.abimg{
+    background-image: url("images\ \(1\).jpeg");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.coimg{
+    background-image: url("desk-workspace-with-various-elements.jpg");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.inimg{
+    background-image: url("images\ \(1\).jpeg");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
